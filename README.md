@@ -6,5 +6,6 @@ You can install processing here :
 https://processing.org/download
 
 ## How to use
-Launch x2048 with processing, and play !
+Launch x2048 with processing.
+Then, you can use the left, up, right, and bottom arrows to move the blocks.
 
