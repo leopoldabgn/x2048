@@ -222,6 +222,7 @@ void keyPressed()
 			
 	}
 	print_squares();
+  println("---------");
 	if(nb != 1 && !badKey) grid.random_nb();
 	grid.display();
   game = !gameOver();
